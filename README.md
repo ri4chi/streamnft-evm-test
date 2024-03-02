@@ -1,0 +1,2 @@
+# streamnft-evm-test
+rich
